@@ -2,11 +2,17 @@
 Repositório jogo de dados
 
 Requisitos Funcionais:
+
 RF 1: Gestão de Usuários
+
 RF 2: Gestão de Bets
+
 RF 3: Gestão de Rodadas de Aposta
+
 RF 4: Realização e Registro de Apostas
+
 RF 5: Gestão do Jogo/Sorteio
+
 RF 6: Resultados
 
 
