@@ -10,7 +10,7 @@ RF 5: Gestão do Jogo/Sorteio
 RF 6: Resultados
 
 
-![Diagrama de Classes]
+#Diagrama de Classes
 <img width="746" height="225" alt="Diagrama de classes_jogo de dados" src="https://github.com/user-attachments/assets/35c6e37e-2362-4598-8bdf-1dddc9dada4e" />
 
 
